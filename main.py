@@ -1,3 +1,10 @@
+"""
+Diego Samperio Arce - A01662935
+Franco Muñoz Ceballos - A01655440
+Arely Yael Villatoro Amador - A01663303
+Wilfrido Tovar Andrade - A01664769
+"""
+
 from FordFulkerson import fordFulkerson
 from Kruskal import kruskalMST
 from readFile import read_file
